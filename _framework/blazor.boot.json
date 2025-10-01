@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "StudentSide",
   "resources": {
-    "hash": "sha256-0xAEOZ134sNdtnh9JrR7iICNvY6DI19m/+84aqrCAwA=",
+    "hash": "sha256-1o/AVmztqEgGot6zSR0ek/f9u8IiO+g6CGkQ/hV5AD0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-nVB+IIrEMZyzYc18/q6Ztgcx9N4PFM4b0KiWbViPINI="
     },
@@ -38,7 +38,7 @@
       "Microsoft.JSInterop.wasm": "sha256-oUAAz0+PeH3d2cCAksYqDLbsWIvis1VFBLx1fOYywFc=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-GsVw42I3DGzgLTnrD2A9JafVYLHVkyB3Qqe2LyDlYm8=",
       "MudBlazor.wasm": "sha256-IKy7rSrN4MPYKQOqRAH/0MCyoM2E/VjP3NXVhcqvpE8=",
-      "StudentSide.wasm": "sha256-KlNCMtY9s5Ev7L8TsAJ38UlJQQkcJ5DmCZbqUT3W2mY=",
+      "StudentSide.wasm": "sha256-9eRxO8/94GybHogLvuPlC8a74s+xOmBK4P1gAQNdEg8=",
       "System.Collections.Concurrent.wasm": "sha256-OD0YYrx/DnYcsFFDKcIbcgSt8UJAAwVPxtZyr293bck=",
       "System.Collections.Immutable.wasm": "sha256-k+Xek2/6GADCdWmj80SsYsvryFft+4XuSA1Zf76YUd0=",
       "System.Collections.Specialized.wasm": "sha256-fQzZx6weXC/dPlahV/burGi758DKYYgEqSN5FXdWglg=",
